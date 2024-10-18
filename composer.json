@@ -1,0 +1,9 @@
+{
+    "name": "site/form",
+    "autoload": {
+        "psr-4": {
+            "database\\": "src/database"
+        }
+    },
+    "require": {}
+}
